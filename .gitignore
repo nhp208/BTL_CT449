@@ -1,0 +1,18 @@
+# Node
+node_modules/
+client/node_modules/
+npm-debug.log*
+package-lock.json
+
+# Build output
+client/dist/
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
